@@ -1,0 +1,592 @@
+/*
+ * @Author: kurtrdev 
+ * @Date: 2021-02-16 14:23:52 
+ * @Last Modified by: kurtrdev
+ * @Last Modified time: 2021-02-16 14:25:32
+ * @Resource Color Palatte: https://github.com/bahamas10/css-color-names/
+ */
+ 
+ .text__aliceblue {
+    color: #f0f8ff
+}
+
+.text__antiquewhite {
+    color: #faebd7
+}
+
+.text__aqua {
+    color: #00ffff
+}
+
+.text__aquamarine {
+    color: #7fffd4
+}
+
+.text__azure {
+    color: #f0ffff
+}
+
+.text__beige {
+    color: #f5f5dc
+}
+
+.text__bisque {
+    color: #ffe4c4
+}
+
+.text__black {
+    color: #000000
+}
+
+.text__blanchedalmond {
+    color: #ffebcd
+}
+
+.text__blue {
+    color: #0000ff
+}
+
+.text__blueviolet {
+    color: #8a2be2
+}
+
+.text__brown {
+    color: #a52a2a
+}
+
+.text__burlywood {
+    color: #deb887
+}
+
+.text__cadetblue {
+    color: #5f9ea0
+}
+
+.text__chartreuse {
+    color: #7fff00
+}
+
+.text__chocolate {
+    color: #d2691e
+}
+
+.text__coral {
+    color: #ff7f50
+}
+
+.text__cornflowerblue {
+    color: #6495ed
+}
+
+.text__cornsilk {
+    color: #fff8dc
+}
+
+.text__crimson {
+    color: #dc143c
+}
+
+.text__cyan {
+    color: #00ffff
+}
+
+.text__darkblue {
+    color: #00008b
+}
+
+.text__darkcyan {
+    color: #008b8b
+}
+
+.text__darkgoldenrod {
+    color: #b8860b
+}
+
+.text__darkgray {
+    color: #a9a9a9
+}
+
+.text__darkgreen {
+    color: #006400
+}
+
+.text__darkgrey {
+    color: #a9a9a9
+}
+
+.text__darkkhaki {
+    color: #bdb76b
+}
+
+.text__darkmagenta {
+    color: #8b008b
+}
+
+.text__darkolivegreen {
+    color: #556b2f
+}
+
+.text__darkorange {
+    color: #ff8c00
+}
+
+.text__darkorchid {
+    color: #9932cc
+}
+
+.text__darkred {
+    color: #8b0000
+}
+
+.text__darksalmon {
+    color: #e9967a
+}
+
+.text__darkseagreen {
+    color: #8fbc8f
+}
+
+.text__darkslateblue {
+    color: #483d8b
+}
+
+.text__darkslategray {
+    color: #2f4f4f
+}
+
+.text__darkslategrey {
+    color: #2f4f4f
+}
+
+.text__darkturquoise {
+    color: #00ced1
+}
+
+.text__darkviolet {
+    color: #9400d3
+}
+
+.text__deeppink {
+    color: #ff1493
+}
+
+.text__deepskyblue {
+    color: #00bfff
+}
+
+.text__dimgray {
+    color: #696969
+}
+
+.text__dimgrey {
+    color: #696969
+}
+
+.text__dodgerblue {
+    color: #1e90ff
+}
+
+.text__firebrick {
+    color: #b22222
+}
+
+.text__floralwhite {
+    color: #fffaf0
+}
+
+.text__forestgreen {
+    color: #228b22
+}
+
+.text__fuchsia {
+    color: #ff00ff
+}
+
+.text__gainsboro {
+    color: #dcdcdc
+}
+
+.text__ghostwhite {
+    color: #f8f8ff
+}
+
+.text__gainsboro {
+    color: #dcdcdc
+}
+
+.text__goldenrod {
+    color: #daa520
+}
+
+.text__gold {
+    color: #ffd700
+}
+
+.text__gray {
+    color: #808080
+}
+
+.text__green {
+    color: #008000
+}
+
+.text__greenyellow {
+    color: #adff2f
+}
+
+.text__grey {
+    color: #808080
+}
+
+.text__honeydew {
+    color: #f0fff0
+}
+
+.text__hotpink {
+    color: #ff69b4
+}
+
+.text__indianred {
+    color: #cd5c5c
+}
+
+.text__indigo {
+    color: #4b0082
+}
+
+.text__ivory {
+    color: #fffff0
+}
+
+.text__khaki {
+    color: #f0e68c
+}
+
+.text__lavenderblush {
+    color: #fff0f5
+}
+
+.text__lavender {
+    color: #e6e6fa
+}
+
+.text__lawngreen {
+    color: #7cfc00
+}
+
+.text__lemonchiffon {
+    color: #fffacd
+}
+
+.text__lightblue {
+    color: #add8e6
+}
+
+.text__lightcoral {
+    color: #f08080
+}
+
+.text__lightcyan {
+    color: #e0ffff
+}
+
+.text__lightgoldenrodyellow {
+    color: #fafad2
+}
+
+.text__lightgray {
+    color: #d3d3d3
+}
+
+.text__lightgreen {
+    color: #90ee90
+}
+
+.text__lightpink {
+    color: #ffb6c1
+}
+
+.text__lightsalmon {
+    color: #ffa07a
+}
+
+.text__lightseagreen {
+    color: #20b2aa
+}
+
+.text__lightskyblue {
+    color: #87cefa
+}
+
+.text__lightslategray {
+    color: #778899
+}
+
+.text__lightsteelblue {
+    color: #b0c4de
+}
+
+.text__lightyellow {
+    color: #ffffe0
+}
+
+.text__lime {
+    color: #00ff00
+}
+
+.text__limegreen {
+    color: #32cd32
+}
+
+.text__linen {
+    color: #faf0e6
+}
+
+.text__magenta {
+    color: #ff00ff
+}
+
+.text__maroon {
+    color: #800000
+}
+
+.text__mediumaquamarine {
+    color: #66cdaa
+}
+
+.text__mediumblue {
+    color: #0000cd
+}
+
+.text__mediumorchid {
+    color: #ba55d3
+}
+
+.text__mediumpurple {
+    color: #9370db
+}
+
+.text__mediumseagreen {
+    color: #3cb371
+}
+
+.text__mediumslateblue {
+    color: #7b68ee
+}
+
+.text__mediumspringgreen {
+    color: #00fa9a
+}
+
+.text__mediumturquoise {
+    color: #48d1cc
+}
+
+.text__mediumvioletred {
+    color: #c71585
+}
+
+.text__midnightblue {
+    color: #191970
+}
+
+.text__mintcream {
+    color: #f5fffa
+}
+
+.text__mistyrose {
+    color: #ffe4e1
+}
+
+.text__moccasin {
+    color: #ffe4b5
+}
+
+.text__navajowhite {
+    color: #ffdead
+}
+
+.text__navy {
+    color: #000080
+}
+
+.text__oldlace {
+    color: #fdf5e6
+}
+
+.text__olive {
+    color: #808000
+}
+
+.text__olivedrab {
+    color: #6b8e23
+}
+
+.text__orange {
+    color: #ffa500
+}
+
+.text__orangered {
+    color: #ff4500
+}
+
+.text__orchid {
+    color: #da70d6
+}
+
+.text__palegoldenrod {
+    color: #eee8aa
+}
+
+.text__palegreen {
+    color: #98fb98
+}
+
+.text__paleturquoise {
+    color: #afeeee
+}
+
+.text__palevioletred {
+    color: #db7093
+}
+
+.text__papayawhip {
+    color: #ffefd5
+}
+
+.text__peachpuff {
+    color: #ffdab9
+}
+
+.text__peru {
+    color: #cd853f
+}
+
+.text__pink {
+    color: #ffc0cb
+}
+
+.text__plum {
+    color: #dda0dd
+}
+
+.text__powderblue {
+    color: #b0e0e6
+}
+
+.text__purple {
+    color: #800080
+}
+
+.text__rebeccapurple {
+    color: #663399
+}
+
+.text__red {
+    color: #ff0000
+}
+
+.text__rosybrown {
+    color: #bc8f8f
+}
+
+.text__royalblue {
+    color: #4169e1
+}
+
+.text__saddlebrown {
+    color: #8b4513
+}
+
+.text__salmon {
+    color: #fa8072
+}
+
+.text__sandybrown {
+    color: #f4a460
+}
+
+.text__seagreen {
+    color: #2e8b57
+}
+
+.text__seashell {
+    color: #fff5ee
+}
+
+.text__sienna {
+    color: #a0522d
+}
+
+.text__silver {
+    color: #c0c0c0
+}
+
+.text__skyblue {
+    color: #87ceeb
+}
+
+.text__slateblue {
+    color: #6a5acd
+}
+
+.text__slategray {
+    color: #708090
+}
+
+
+.text__snow {
+    color: #fffafa
+}
+
+.text__springgreen {
+    color: #00ff7f
+}
+
+.text__steelblue {
+    color: #4682b4
+}
+
+.text__tan {
+    color: #d2b48c
+}
+
+.text__teal {
+    color: #008080
+}
+
+.text__thistle {
+    color: #d8bfd8
+}
+
+.text__tomato {
+    color: #ff6347
+}
+
+.text__turquoise {
+    color: #40e0d0
+}
+
+.text__violet {
+    color: #ee82ee
+}
+
+.text__wheat {
+    color: #f5deb3
+}
+
+.text__white {
+    color: #ffffff
+}
+
+.text__whitesmoke {
+    color: #f5f5f5
+}
+
+.text__yellow {
+    color: #ffff00
+}
+
+.text__yellowgreen {
+    color: #9acd32
+}
