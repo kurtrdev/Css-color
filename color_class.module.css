@@ -1,597 +1,597 @@
 /*
  * @Author: kurtrdev 
- * @Date: 2021-02-16 14:23:52 
+ * @Date: 2021-02-16 14:26:14 
  * @Last Modified by: kurtrdev
- * @Last Modified time: 2021-02-16 14:25:32
- * @Resource Color Palatte: https://github.com/bahamas10/css-color-names/
+ * @Last Modified time: 2021-02-16 15:10:58
+ * @Resource Color pallate: https://github.com/bahamas10/css-color-names/
  */
- 
+
 /*
  * @Background Color
  */
 
-.bg-aliceblue {
+.bg__aliceblue {
     background-color: #f0f8ff
 }
 
-.bg-antiquewhite {
+.bg__antiquewhite {
     background-color: #faebd7
 }
 
-.bg-aqua {
+.bg__aqua {
     background-color: #00ffff
 }
 
-.bg-aquamarine {
+.bg__aquamarine {
     background-color: #7fffd4
 }
 
-.bg-azure {
+.bg__azure {
     background-color: #f0ffff
 }
 
-.bg-beige {
+.bg__beige {
     background-color: #f5f5dc
 }
 
-.bg-bisque {
+.bg__bisque {
     background-color: #ffe4c4
 }
 
-.bg-black {
+.bg__black {
     background-color: #000000
 }
 
-.bg-blanchedalmond {
+.bg__blanchedalmond {
     background-color: #ffebcd
 }
 
-.bg-blue {
+.bg__blue {
     background-color: #0000ff
 }
 
-.bg-blueviolet {
+.bg__blueviolet {
     background-color: #8a2be2
 }
 
-.bg-brown {
+.bg__brown {
     background-color: #a52a2a
 }
 
-.bg-burlywood {
+.bg__burlywood {
     background-color: #deb887
 }
 
-.bg-cadetblue {
+.bg__cadetblue {
     background-color: #5f9ea0
 }
 
-.bg-chartreuse {
+.bg__chartreuse {
     background-color: #7fff00
 }
 
-.bg-chocolate {
+.bg__chocolate {
     background-color: #d2691e
 }
 
-.bg-coral {
+.bg__coral {
     background-color: #ff7f50
 }
 
-.bg-cornflowerblue {
+.bg__cornflowerblue {
     background-color: #6495ed
 }
 
-.bg-cornsilk {
+.bg__cornsilk {
     background-color: #fff8dc
 }
 
-.bg-crimson {
+.bg__crimson {
     background-color: #dc143c
 }
 
-.bg-cyan {
+.bg__cyan {
     background-color: #00ffff
 }
 
-.bg-darkblue {
+.bg__darkblue {
     background-color: #00008b
 }
 
-.bg-darkcyan {
+.bg__darkcyan {
     background-color: #008b8b
 }
 
-.bg-darkgoldenrod {
+.bg__darkgoldenrod {
     background-color: #b8860b
 }
 
-.bg-darkgray {
+.bg__darkgray {
     background-color: #a9a9a9
 }
 
-.bg-darkgreen {
+.bg__darkgreen {
     background-color: #006400
 }
 
-.bg-darkgrey {
+.bg__darkgrey {
     background-color: #a9a9a9
 }
 
-.bg-darkkhaki {
+.bg__darkkhaki {
     background-color: #bdb76b
 }
 
-.bg-darkmagenta {
+.bg__darkmagenta {
     background-color: #8b008b
 }
 
-.bg-darkolivegreen {
+.bg__darkolivegreen {
     background-color: #556b2f
 }
 
-.bg-darkorange {
+.bg__darkorange {
     background-color: #ff8c00
 }
 
-.bg-darkorchid {
+.bg__darkorchid {
     background-color: #9932cc
 }
 
-.bg-darkred {
+.bg__darkred {
     background-color: #8b0000
 }
 
-.bg-darksalmon {
+.bg__darksalmon {
     background-color: #e9967a
 }
 
-.bg-darkseagreen {
+.bg__darkseagreen {
     background-color: #8fbc8f
 }
 
-.bg-darkslateblue {
+.bg__darkslateblue {
     background-color: #483d8b
 }
 
-.bg-darkslategray {
+.bg__darkslategray {
     background-color: #2f4f4f
 }
 
-.bg-darkslategrey {
+.bg__darkslategrey {
     background-color: #2f4f4f
 }
 
-.bg-darkturquoise {
+.bg__darkturquoise {
     background-color: #00ced1
 }
 
-.bg-darkviolet {
+.bg__darkviolet {
     background-color: #9400d3
 }
 
-.bg-deeppink {
+.bg__deeppink {
     background-color: #ff1493
 }
 
-.bg-deepskyblue {
+.bg__deepskyblue {
     background-color: #00bfff
 }
 
-.bg-dimgray {
+.bg__dimgray {
     background-color: #696969
 }
 
-.bg-dimgrey {
+.bg__dimgrey {
     background-color: #696969
 }
 
-.bg-dodgerblue {
+.bg__dodgerblue {
     background-color: #1e90ff
 }
 
-.bg-firebrick {
+.bg__firebrick {
     background-color: #b22222
 }
 
-.bg-floralwhite {
+.bg__floralwhite {
     background-color: #fffaf0
 }
 
-.bg-forestgreen {
+.bg__forestgreen {
     background-color: #228b22
 }
 
-.bg-fuchsia {
+.bg__fuchsia {
     background-color: #ff00ff
 }
 
-.bg-gainsboro {
+.bg__gainsboro {
     background-color: #dcdcdc
 }
 
-.bg-ghostwhite {
+.bg__ghostwhite {
     background-color: #f8f8ff
 }
 
-.bg-gainsboro {
+.bg__gainsboro {
     background-color: #dcdcdc
 }
 
-.bg-goldenrod {
+.bg__goldenrod {
     background-color: #daa520
 }
 
-.bg-gold {
+.bg__gold {
     background-color: #ffd700
 }
 
-.bg-gray {
+.bg__gray {
     background-color: #808080
 }
 
-.bg-green {
+.bg__green {
     background-color: #008000
 }
 
-.bg-greenyellow {
+.bg__greenyellow {
     background-color: #adff2f
 }
 
-.bg-grey {
+.bg__grey {
     background-color: #808080
 }
 
-.bg-honeydew {
+.bg__honeydew {
     background-color: #f0fff0
 }
 
-.bg-hotpink {
+.bg__hotpink {
     background-color: #ff69b4
 }
 
-.bg-indianred {
+.bg__indianred {
     background-color: #cd5c5c
 }
 
-.bg-indigo {
+.bg__indigo {
     background-color: #4b0082
 }
 
-.bg-ivory {
+.bg__ivory {
     background-color: #fffff0
 }
 
-.bg-khaki {
+.bg__khaki {
     background-color: #f0e68c
 }
 
-.bg-lavenderblush {
+.bg__lavenderblush {
     background-color: #fff0f5
 }
 
-.bg-lavender {
+.bg__lavender {
     background-color: #e6e6fa
 }
 
-.bg-lawngreen {
+.bg__lawngreen {
     background-color: #7cfc00
 }
 
-.bg-lemonchiffon {
+.bg__lemonchiffon {
     background-color: #fffacd
 }
 
-.bg-lightblue {
+.bg__lightblue {
     background-color: #add8e6
 }
 
-.bg-lightcoral {
+.bg__lightcoral {
     background-color: #f08080
 }
 
-.bg-lightcyan {
+.bg__lightcyan {
     background-color: #e0ffff
 }
 
-.bg-lightgoldenrodyellow {
+.bg__lightgoldenrodyellow {
     background-color: #fafad2
 }
 
-.bg-lightgray {
+.bg__lightgray {
     background-color: #d3d3d3
 }
 
-.bg-lightgreen {
+.bg__lightgreen {
     background-color: #90ee90
 }
 
-.bg-lightpink {
+.bg__lightpink {
     background-color: #ffb6c1
 }
 
-.bg-lightsalmon {
+.bg__lightsalmon {
     background-color: #ffa07a
 }
 
-.bg-lightseagreen {
+.bg__lightseagreen {
     background-color: #20b2aa
 }
 
-.bg-lightskyblue {
+.bg__lightskyblue {
     background-color: #87cefa
 }
 
-.bg-lightslategray {
+.bg__lightslategray {
     background-color: #778899
 }
 
-.bg-lightsteelblue {
+.bg__lightsteelblue {
     background-color: #b0c4de
 }
 
-.bg-lightyellow {
+.bg__lightyellow {
     background-color: #ffffe0
 }
 
-.bg-lime {
+.bg__lime {
     background-color: #00ff00
 }
 
-.bg-limegreen {
+.bg__limegreen {
     background-color: #32cd32
 }
 
-.bg-linen {
+.bg__linen {
     background-color: #faf0e6
 }
 
-.bg-magenta {
+.bg__magenta {
     background-color: #ff00ff
 }
 
-.bg-maroon {
+.bg__maroon {
     background-color: #800000
 }
 
-.bg-mediumaquamarine {
+.bg__mediumaquamarine {
     background-color: #66cdaa
 }
 
-.bg-mediumblue {
+.bg__mediumblue {
     background-color: #0000cd
 }
 
-.bg-mediumorchid {
+.bg__mediumorchid {
     background-color: #ba55d3
 }
 
-.bg-mediumpurple {
+.bg__mediumpurple {
     background-color: #9370db
 }
 
-.bg-mediumseagreen {
+.bg__mediumseagreen {
     background-color: #3cb371
 }
 
-.bg-mediumslateblue {
+.bg__mediumslateblue {
     background-color: #7b68ee
 }
 
-.bg-mediumspringgreen {
+.bg__mediumspringgreen {
     background-color: #00fa9a
 }
 
-.bg-mediumturquoise {
+.bg__mediumturquoise {
     background-color: #48d1cc
 }
 
-.bg-mediumvioletred {
+.bg__mediumvioletred {
     background-color: #c71585
 }
 
-.bg-midnightblue {
+.bg__midnightblue {
     background-color: #191970
 }
 
-.bg-mintcream {
+.bg__mintcream {
     background-color: #f5fffa
 }
 
-.bg-mistyrose {
+.bg__mistyrose {
     background-color: #ffe4e1
 }
 
-.bg-moccasin {
+.bg__moccasin {
     background-color: #ffe4b5
 }
 
-.bg-navajowhite {
+.bg__navajowhite {
     background-color: #ffdead
 }
 
-.bg-navy {
+.bg__navy {
     background-color: #000080
 }
 
-.bg-oldlace {
+.bg__oldlace {
     background-color: #fdf5e6
 }
 
-.bg-olive {
+.bg__olive {
     background-color: #808000
 }
 
-.bg-olivedrab {
+.bg__olivedrab {
     background-color: #6b8e23
 }
 
-.bg-orange {
+.bg__orange {
     background-color: #ffa500
 }
 
-.bg-orangered {
+.bg__orangered {
     background-color: #ff4500
 }
 
-.bg-orchid {
+.bg__orchid {
     background-color: #da70d6
 }
 
-.bg-palegoldenrod {
+.bg__palegoldenrod {
     background-color: #eee8aa
 }
 
-.bg-palegreen {
+.bg__palegreen {
     background-color: #98fb98
 }
 
-.bg-paleturquoise {
+.bg__paleturquoise {
     background-color: #afeeee
 }
 
-.bg-palevioletred {
+.bg__palevioletred {
     background-color: #db7093
 }
 
-.bg-papayawhip {
+.bg__papayawhip {
     background-color: #ffefd5
 }
 
-.bg-peachpuff {
+.bg__peachpuff {
     background-color: #ffdab9
 }
 
-.bg-peru {
+.bg__peru {
     background-color: #cd853f
 }
 
-.bg-pink {
+.bg__pink {
     background-color: #ffc0cb
 }
 
-.bg-plum {
+.bg__plum {
     background-color: #dda0dd
 }
 
-.bg-powderblue {
+.bg__powderblue {
     background-color: #b0e0e6
 }
 
-.bg-purple {
+.bg__purple {
     background-color: #800080
 }
 
-.bg-rebeccapurple {
+.bg__rebeccapurple {
     background-color: #663399
 }
 
-.bg-red {
+.bg__red {
     background-color: #ff0000
 }
 
-.bg-rosybrown {
+.bg__rosybrown {
     background-color: #bc8f8f
 }
 
-.bg-royalblue {
+.bg__royalblue {
     background-color: #4169e1
 }
 
-.bg-saddlebrown {
+.bg__saddlebrown {
     background-color: #8b4513
 }
 
-.bg-salmon {
+.bg__salmon {
     background-color: #fa8072
 }
 
-.bg-sandybrown {
+.bg__sandybrown {
     background-color: #f4a460
 }
 
-.bg-seagreen {
+.bg__seagreen {
     background-color: #2e8b57
 }
 
-.bg-seashell {
+.bg__seashell {
     background-color: #fff5ee
 }
 
-.bg-sienna {
+.bg__sienna {
     background-color: #a0522d
 }
 
-.bg-silver {
+.bg__silver {
     background-color: #c0c0c0
 }
 
-.bg-skyblue {
+.bg__skyblue {
     background-color: #87ceeb
 }
 
-.bg-slateblue {
+.bg__slateblue {
     background-color: #6a5acd
 }
 
-.bg-slategray {
+.bg__slategray {
     background-color: #708090
 }
 
 
-.bg-snow {
+.bg__snow {
     background-color: #fffafa
 }
 
-.bg-springgreen {
+.bg__springgreen {
     background-color: #00ff7f
 }
 
-.bg-steelblue {
+.bg__steelblue {
     background-color: #4682b4
 }
 
-.bg-tan {
+.bg__tan {
     background-color: #d2b48c
 }
 
-.bg-teal {
+.bg__teal {
     background-color: #008080
 }
 
-.bg-thistle {
+.bg__thistle {
     background-color: #d8bfd8
 }
 
-.bg-tomato {
+.bg__tomato {
     background-color: #ff6347
 }
 
-.bg-turquoise {
+.bg__turquoise {
     background-color: #40e0d0
 }
 
-.bg-violet {
+.bg__violet {
     background-color: #ee82ee
 }
 
-.bg-wheat {
+.bg__wheat {
     background-color: #f5deb3
 }
 
-.bg-white {
+.bg__white {
     background-color: #ffffff
 }
 
-.bg-whitesmoke {
+.bg__whitesmoke {
     background-color: #f5f5f5
 }
 
-.bg-yellow {
+.bg__yellow {
     background-color: #ffff00
 }
 
-.bg-yellowgreen {
+.bg__yellowgreen {
     background-color: #9acd32
 }
 
