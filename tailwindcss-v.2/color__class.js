@@ -1,4 +1,4 @@
-const tailwindcolors = [
+const tailwindColors = [
 	{
 		primary: {
 			white: '#ffffff',
