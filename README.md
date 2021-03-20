@@ -1,1 +1,1 @@
-# Css colors
+# Colors Palette
